@@ -1,0 +1,7 @@
+C:\C# projects\Dota2Vizor\Dota2Vizor\bin\Debug\Dota2Vizor.exe.config
+C:\C# projects\Dota2Vizor\Dota2Vizor\bin\Debug\Dota2Vizor.exe
+C:\C# projects\Dota2Vizor\Dota2Vizor\bin\Debug\Dota2Vizor.pdb
+C:\C# projects\Dota2Vizor\Dota2Vizor\obj\Debug\Chat.csproj.AssemblyReference.cache
+C:\C# projects\Dota2Vizor\Dota2Vizor\obj\Debug\Chat.csproj.CoreCompileInputs.cache
+C:\C# projects\Dota2Vizor\Dota2Vizor\obj\Debug\Dota2Vizor.exe
+C:\C# projects\Dota2Vizor\Dota2Vizor\obj\Debug\Dota2Vizor.pdb
